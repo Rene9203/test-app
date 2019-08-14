@@ -1,0 +1,14 @@
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Infraestructure.deps.json
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Infraestructure.runtimeconfig.json
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Infraestructure.runtimeconfig.dev.json
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Infraestructure.dll
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Infraestructure.pdb
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Core.dll
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\bin\Debug\netcoreapp2.0\TestApp.Core.pdb
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.AssemblyInfo.cs
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.csproj.CopyComplete
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.dll
+C:\Users\Rene\source\repos\TestApp\TestApp.Infraestructure\obj\Debug\netcoreapp2.0\TestApp.Infraestructure.pdb
